@@ -1,8 +1,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7TKJoSDgvrTXcHQc/giphy.gif" width="300"/>
-  <h5><i>Ahoy !</i></h5>
+  <h3><i>Ahoy !</i></h3>
 </div>
 
+
+<div align="center">
+
+_My name is Kingoftime._  
+_Work with software development_  
+_I'm looking for self-improvement and i'm counting on you to help me_
+
+__how?__
+
+  
+</div>
 
 
 <div align="center">
