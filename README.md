@@ -1,29 +1,21 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKJoSDgvrTXcHQc/giphy.gif" width="300"/>
-  <h3><i>Ahoy !</i></h3>
-</div>
+
+<img src="https://github.com/KingofTime/Kingoftime/blob/398072254875290a4a97cbc71fd82447fea1a2df/header.png">
+<p>
+  Make yourself comfortable, i was waiting for you.<br>
+  I'm on the first steps of a loooong journey and I think you can help me <br>
+</p>
+
+__How can you help me???__
+
+- You may be collaborating with some of my projects
+- We can talk about different topics
+- and finally, you can follow me on social media
 
 
-<div align="center">
 
-_My name is Antonio Neto._  
-_Work with software development_  
-_I'm looking for self-improvement and i'm counting on you to help me_
-
-__how?__
-
-_you might be collaborating with some of my projects_  
-_you can also be following me on social media_  
-_and finally you can join my server on discord_
-
-  
-</div>
+<br>
+<br>
 
 
-<div align="center">
-  
-  [![My Skills](https://skills.thijs.gg/icons?i=php,py,html,css,js,git,docker,bash,figma)](https://skills.thijs.gg)
-
-
-  [![My Skills](https://skills.thijs.gg/icons?i=vuejs,django,laravel,symfony,wordpress)](https://skills.thijs.gg)
-</div>
+_Thus, though we cannot make our sun<br>
+Stand still, yet we will make him run. (Andrew Marvell)_
